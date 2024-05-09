@@ -1,0 +1,27 @@
+.box{
+    border: 3px solid ;
+    padding: 40px ;
+    margin: 10px;
+}
+body{
+    background-color: #f6f6f6;
+   margin: 50px;
+  
+}
+.useContext{
+    text-align: center;
+    color: #000;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10px;
+    margin: 10px;
+    padding-top: 20px;
+}
+.user{
+    font-size: large;
+    text-align: center;
+   
+}
+.qoslaye{
+    color: #3a86ff;
+    text-align: center;
+}
